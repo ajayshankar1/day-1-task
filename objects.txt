@@ -1,0 +1,19 @@
+						Objects 
+
+Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript.
+
+These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value each (depending on their types).
+
+Javascript has 5 data types that are passed by value: Boolean, null, undefined, String, and Number. We’ll call these primitive types.
+
+Javascript has 3 data types that are passed by reference: Array, Function, and Object. These are all technically Objects, so we’ll refer to them collectively as Objects.
+
+Loosely speaking, objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs. 
+
+These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+
+An object can be created with figure brackets {…} with an optional list of properties. 
+
+A property is a “key: value” pair, where a key is a string (also called a “property name”), and value can be anything.
+
+
